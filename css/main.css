@@ -167,7 +167,7 @@ padding: 5px
 
 }
 .prices .price-imge{
-    background-image: url(../images/price-en.png) #fcfcfc;
+    background: url(../images/price-en.png) #fcfcfc;
     height: 200px;
     background-repeat: no-repeat;
     background-position: center;
