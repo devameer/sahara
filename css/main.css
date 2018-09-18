@@ -356,6 +356,10 @@ margin-bottom: 50px;
 .contact-detail i{
 margin-right: 5px;
 }
+.contact-details-inner a{
+    color: #fff;
+text-decoration: none;
+}
 /* end page contact detail styles */
 /* start footer styles */
 .footer{
