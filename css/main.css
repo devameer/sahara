@@ -172,6 +172,7 @@ padding: 5px
     background-repeat: no-repeat;
     background-position: center;
     position: relative;
+    margin-bottom: 30px;
 }
 .prices .price-imge:after{
     height: 150px;
