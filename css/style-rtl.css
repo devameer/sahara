@@ -8,6 +8,6 @@ body{
     margin-left: 5px;
 }
 .prices .price-imge{
-    background: url(../images/price-ar.png) #fcfcfc;
+    background-image: url(../images/price-ar.png) #fcfcfc;
 
 }
